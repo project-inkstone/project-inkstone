@@ -1,4 +1,4 @@
-# Project Inkstone
+# ![](/assets/logo.png)
 
 ## 目录
 
