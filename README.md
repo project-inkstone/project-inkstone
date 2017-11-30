@@ -1,6 +1,8 @@
-# ![](/assets/logo.png)
+# ![](/logo.png)
 
 Gitbook 在线电子书：[Inkstone](https://inkstone.gitbooks.io/project-inkstone/content/)
+
+Github 项目页: [Project Inkstone](https://github.com/project-inkstone/project-inkstone)
 
 ---
 
