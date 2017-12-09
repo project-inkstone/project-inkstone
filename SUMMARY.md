@@ -1,8 +1,10 @@
 ![logo.png](others/logo.png)
 
-[Project Inkstone in Github](https://github.com/project-inkstone/project-inkstone) 
+[主页](https://project-inkstone.github.io/project-inkstone/) 
 
-联系我们：[🐟](https://github.com/tyusr) / [⚪](https://github.com/Da-Yuan) /  [🍉](https://github.com/Watermelon-Chen)
+[Inkstone on Github](https://github.com/project-inkstone/project-inkstone) 
+
+联系我们： [🐟](https://github.com/tyusr) / [⚪](https://github.com/Da-Yuan) /  [🍉](https://github.com/Watermelon-Chen)
 
 
 # 总目录
