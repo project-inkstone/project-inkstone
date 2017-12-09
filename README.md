@@ -1,39 +1,47 @@
-# ![](/logo.png)
+![logo.png](https://i.loli.net/2017/12/09/5a2b95a1c47af.png)
 
-Gitbook 在线电子书：[Inkstone](https://inkstone.gitbooks.io/project-inkstone/content/)
+[Project Inkstone in Github](https://github.com/project-inkstone/project-inkstone) 
 
-Github 项目页: [Project Inkstone](https://github.com/project-inkstone/project-inkstone)
+联系我们：[🐟](https://github.com/tyusr) / [⚪](https://github.com/Da-Yuan) /  [🍉](https://github.com/Watermelon-Chen)
 
----
 
-## 「你想要的，我们都没有」
 
-Inkstone 一无是处，在这里你什么都得不到。比如：
+## 关于 Inkstone
 
-* 怎么发论文？
-* 去哪下载最新的破解版 MatLab ？
-* 如何顺利毕业？
+Inkstone 为以下领域的入门者提供帮助：
 
-这些 Inkstone 都帮不了你。它**仅仅企图提供一个小规模分享平台，妄想为 C312 实验室成员解决常见的技术问题**。你或许可以在这里找到：
+* 图像处理
+* 机器学习
+* 计算机科学
+* ...
 
-* MathType 的使用方法
-* MatLab 的实用命令
-* 常见的相似度量方法
-* ……
+这里你能找到这些[软件的入门教程](software-tutorial/index.md)：
 
-总之无非是一点点道听途说的，计算机科学、图像处理、机器学习等学科的基本概念，几个软件的使用方法，水论文的技巧心得……都是些没人看的破东西。
+* MatLab
+* Word
+* MathType
+* EndNote
+* ...
 
-不过我们还是希望 Inkstone 能有那么一点点用处，让你在 C312 不那么丧。
+可能还会包含这些技巧和心得：
 
----
+* 学术论文写作
+* 读研的感想
+* ...
+
+希望 Inkstone 能够帮助到你。
+
+
 
 ## 加入我们（不要钱）
 
-提问、纠错、等小问题，请至 Issues 页面提交。
+Inkstone 计划虽然最初是由 C312 实验室发起的，但我们非常乐于接受任何人的贡献！
 
-修改、提交新文章等请自行研究 Github 用法（大约是发出新的 pull request 吧）。你可能还需要掌握一些 markdown 的知识。
+提问、纠错、等小问题，请至 issues 页面。
 
-提交的新内容请力求简洁干练，言之有物。我们会看心情选用 : \)
+修改、提交文章等请 commit，或与我们联系。
+
+新文章请力求简洁干练，言之有物。
 
 另外我们拒绝的东西包括但不限于：
 
@@ -43,16 +51,3 @@ Inkstone 一无是处，在这里你什么都得不到。比如：
 * 非法内容
 
 非原创的优秀资源可以提交至资源分享区。
-
----
-
-## 一些废话（正经的）
-
-[反正你也不会点](/ba.md)
-
----
-
-## 联系我们：
-
-[🐟](https://github.com/tyusr) / [⚪](https://github.com/Da-Yuan) /  [🍉](https://github.com/Watermelon-Chen)
-
