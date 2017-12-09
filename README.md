@@ -1,10 +1,14 @@
 # ![logo.png](others/logo.png)
 
-[主页](https://project-inkstone.github.io/project-inkstone/) 
+[主页](https://project-inkstone.github.io/project-inkstone/) |
+[鸣谢](others/acknowledge.md) |
+[故事](others/story.md) |
+[Inkstone on Github](https://github.com/project-inkstone/project-inkstone)
 
-[Inkstone on Github](https://github.com/project-inkstone/project-inkstone) 
-
-联系我们： [🐟](https://github.com/tyusr) / [⚪](https://github.com/Da-Yuan) /  [🍉](https://github.com/Watermelon-Chen)
+联系我们：
+[🐟](https://github.com/tyusr) /
+[⚪](https://github.com/Da-Yuan) /
+[🍉](https://github.com/Watermelon-Chen)
 
 ## 关于 Inkstone
 
@@ -15,12 +19,12 @@ Inkstone 为以下领域的入门者提供帮助：
 * 计算机科学
 * ...
 
-这里你能找到这些[软件的入门教程](software-tutorial/index.md)：
+这里你能找到这些[软件的入门教程](SUMMARY.md/#软件教程)：
 
 * MatLab
 * Word
-* MathType
-* EndNote
+* [MathType](software-tutorial/mathtype-intro/mathtype-intro.md)
+* [EndNote](software-tutorial/endnote-intro/endnote-intro.md)
 * ...
 
 可能还会包含这些技巧和心得：
@@ -48,4 +52,4 @@ Inkstone 计划虽然最初是由 C312 实验室发起的，但我们非常乐�
 * 压缩包和二进制文件
 * 非法内容
 
-非原创的优秀资源可以提交至资源分享区。
+非原创的优秀资源可以提交至[资源分享区](SUMMARY.md/#资源分享)。
