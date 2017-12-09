@@ -1,12 +1,10 @@
-![logo.png](others/logo.png)
+# ![logo.png](others/logo.png)
 
 [主页](https://project-inkstone.github.io/project-inkstone/) 
 
 [Inkstone on Github](https://github.com/project-inkstone/project-inkstone) 
 
 联系我们： [🐟](https://github.com/tyusr) / [⚪](https://github.com/Da-Yuan) /  [🍉](https://github.com/Watermelon-Chen)
-
-
 
 ## 关于 Inkstone
 
@@ -33,9 +31,7 @@ Inkstone 为以下领域的入门者提供帮助：
 
 希望 Inkstone 能够帮助到你。
 
-
-
-## 加入我们（不要钱）
+## 加入我们
 
 Inkstone 计划虽然最初是由 C312 实验室发起的，但我们非常乐于接受任何人的贡献！
 

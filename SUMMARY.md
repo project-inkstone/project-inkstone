@@ -1,26 +1,22 @@
-![logo.png](others/logo.png)
+# ![logo.png](others/logo.png)
 
 [主页](https://project-inkstone.github.io/project-inkstone/) 
 
-[Inkstone on Github](https://github.com/project-inkstone/project-inkstone) 
+[Inkstone on Github](https://github.com/project-inkstone/project-inkstone)
 
 联系我们： [🐟](https://github.com/tyusr) / [⚪](https://github.com/Da-Yuan) /  [🍉](https://github.com/Watermelon-Chen)
 
+## 总目录
 
-# 总目录
-
-
-## [软件教程](software-tutorial/index.md)
+### [软件教程](software-tutorial/index.md)
 
 * [Endnote 入门](software-tutorial/endnote-intro/endnote-intro.md)
 
-
-## [资源分享](share/index.md)
+### [资源分享](share/index.md)
 
 * 暂无
 
-
-## 其他
+### 其他
 
 * [鸣谢](others/acknowledge.md)
 * [故事](others/story.md)
