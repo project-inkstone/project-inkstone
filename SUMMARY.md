@@ -1,4 +1,4 @@
-![logo.png](https://i.loli.net/2017/12/09/5a2b95a1c47af.png)
+![logo.png](others/logo.png)
 
 [Project Inkstone in Github](https://github.com/project-inkstone/project-inkstone) 
 
