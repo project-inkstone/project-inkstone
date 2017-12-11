@@ -21,7 +21,7 @@ Inkstone 为以下领域的入门者提供帮助：
 
 这里你能找到这些[软件的入门教程](SUMMARY.md/#软件教程)：
 
-* MatLab
+* [MatLab](programming/matlab-commands/matlab-commands.md)
 * Word
 * [MathType](software-tutorial/mathtype-intro/mathtype-intro.md)
 * [EndNote](software-tutorial/endnote-intro/endnote-intro.md)

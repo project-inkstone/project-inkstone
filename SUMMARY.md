@@ -6,6 +6,10 @@
 
 * [MatyType 入门](software-tutorial/mathtype-intro/mathtype-intro.md)
 
+## 编程技巧
+
+* [MatLab 常用命令](programming/matlab-commands/matlab-commands.md)
+
 ## 资源分享
 
 * 暂无
