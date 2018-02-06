@@ -6,6 +6,8 @@
 
 * [MatyType 入门](software-tutorial/mathtype-intro/mathtype-intro.md)
 
+* [Ubuntu 网络配置](software-tutorial/ubuntu-network/ubuntu-network.md)
+
 ## 编程技巧
 
 * [MatLab 常用命令](programming/matlab-commands/matlab-commands.md)

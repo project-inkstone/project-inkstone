@@ -1,6 +1,7 @@
 # ![logo.png](others/logo.png)
 
 [主页](https://project-inkstone.github.io/project-inkstone/) |
+[目录](SUMMARY.md) |
 [鸣谢](others/acknowledge.md) |
 [故事](others/story.md) |
 [Inkstone on Github](https://github.com/project-inkstone/project-inkstone)
@@ -19,7 +20,7 @@ Inkstone 为以下领域的入门者提供帮助：
 * 计算机科学
 * ...
 
-这里你能找到这些[软件的入门教程](SUMMARY.md/#软件教程)：
+这里你能找到这些[入门教程](SUMMARY.md/#软件教程)：
 
 * [MatLab](programming/matlab-commands/matlab-commands.md)
 * Word
@@ -34,6 +35,8 @@ Inkstone 为以下领域的入门者提供帮助：
 * ...
 
 希望 Inkstone 能够帮助到你。
+
+## [>> 查看 Inkstone 全部文章](SUMMARY.md)
 
 ## 加入我们
 
