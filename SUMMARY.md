@@ -8,6 +8,8 @@
 
 * [Ubuntu 网络配置](software-tutorial/ubuntu-network/ubuntu-network.md)
 
+* [Linux下virtualenv的使用与pycharm的基本配置](software-tutorial/ubuntu-network/virtualenv_and_pycharm.md)
+
 ## 编程技巧
 
 * [MatLab 常用命令](programming/matlab-commands/matlab-commands.md)
