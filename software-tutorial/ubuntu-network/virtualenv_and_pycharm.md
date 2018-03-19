@@ -3,7 +3,7 @@
 ### Created by Ella，edited by [🍉](https://github.com/Watermelon-Chen)
 ### 2018.3.19
 ## 提要
-- virtualenv相关（[更详细的使用参照官方文档](https://virtualenv.pypa.io/en/stable/）
+- virtualenv相关（[更详细的使用参照官方文档](https://virtualenv.pypa.io/en/stable/)）
 
 ## 操作指南
 ### 创建一个virtualenv环境
