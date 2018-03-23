@@ -1,42 +1,56 @@
 # Linux下virtualenv的使用与pycharm的基本配置
+Created by Ella，edited by [🍉](https://github.com/Watermelon-Chen)
 
-### Created by Ella，edited by [🍉](https://github.com/Watermelon-Chen)
-### 2018.3.19
+2018.3.19
 ## 提要
-- virtualenv相关（[更详细的使用参照官方文档](https://virtualenv.pypa.io/en/stable/)）
+- virtualenv相关（更详细的使用参照[官方文档](https://virtualenv.pypa.io/en/stable/)）
 
-## 操作指南
-### 创建一个virtualenv环境
-环境一：
+## virtualenv操作指南
+### 1. 创建一个virtualenv环境
+#### a. 不包含系统的python包：
+使用如下语句：
+```
+virtualenv + 路径
+```
+以这种方式创建环境将不包含系统的python包，新的环境里面只有pip、setuptools和wheel这些包，则许多包要用pip重新安装。
 
-不包含系统的python包，新的环境里面只有pip, setuptools和wheel这些包，则许多包要用pip重新安装：
-virtualenv + 路；
-也可以指定python版本：Virtualenv –p python3 +路径
+若需指定python版本：
+```
+virtualenv –p python3 + 路径
+```
 
-环境二：
-
-包含系统的python包，系统中安装过的包可以在新的环境中直接使用，不用重新安装：
+#### b. 包含系统的python包：
+系统中安装过的包可以在新的环境中直接使用，不用重新安装：
+```
 virtualenv --system-site-packages + 路径
-### 激活virtualenv环境
-source 路径/bin/activate
+```
 
-激活只对当前终端有效，如果新打开了一个终端的话，重新运行上面的命令。
+### 2. 激活virtualenv环境
+```
+source 路径/bin/activate
+```
+注意：**激活只对当前终端有效**，如果新打开了一个终端的话，重新运行上面的命令。
 激活后终端前面会多一个(****)的东西，提示当前virtualenv的名称。
 
-激活后可以在当前终端通过python + 文件名.py的方式运行python脚本，如果脚本中使用了当前环境中没有的包，而且没有使用“—system-site-packages”的话，将会报错, 可以在激活环境后使用pip安装对应的包。注意不要使用sudo，因为包不会安装到系统当中去，而是安装到了当前的virtualenv对应的目录中。
+激活后可以在当前终端通过`python  文件名.py`的方式运行python脚本，如果脚本中使用了当前环境中没有的包，将会报错。
 
-### 退出virtualenv环境
+可以在激活环境后使用pip安装对应的包。注意不要使用sudo，否则包会安装到系统当中去，而不是当前的virtualenv目录中。
+
+### 3. 退出virtualenv环境
+```
 deactivate
+```
+也可直接关闭当前终端。
 
-或者直接关闭当前终端
-### 删除virtualenv环境
+### 4. 删除virtualenv环境
 直接删除对应目录即可删除virtualenv环境，不会对系统产生任何影响，所以在virtualenv中可以放心操作。
-
+```
 rm -rvf  + 路径
+```
 
 ![remove_env](https://i.loli.net/2018/03/19/5aafafdaa2aca.jpg)
 
-### pycharm 配置
+## pycharm 配置
 ![pycharm_configuration.png](https://i.loli.net/2018/03/19/5aafb0d3811f2.png)
 
 1. New environment using Virtualenv:
@@ -76,7 +90,7 @@ Conda是anaconda(一个科学计算的python发行版)的包管理器，也可�
 
 ![pycharm_configuration.png](https://i.loli.net/2018/03/19/5aafb2bdae3ff.png)
 
-## **如果你系统环境的python损坏了，可以试着用virtualenv或者pycharm新建一个新的不包含系统包的python环境，然后在这个环境下安装新的python包，以后在pycharm中都用这个环境，或者在终端通过source +路径的方式激活该环境，然后运行程序，应该可以正常运行。**
+如果你系统环境的python损坏了，可以试着用virtualenv或者pycharm新建一个新的不包含系统包的python环境，然后在这个环境下安装新的python包，以后在pycharm中都用这个环境，或者在终端通过`source + 路径`的方式激活该环境，然后运行程序，应该可以正常运行。
 
 
 
