@@ -9,7 +9,8 @@
 联系我们：
 [🐟](https://github.com/tyusr) /
 [⚪](https://github.com/Da-Yuan) /
-[🍉](https://github.com/Watermelon-Chen)
+[🍉](https://github.com/Watermelon-Chen)/
+[![dragon](others/dragon.png)](https://github.com/Jngwl)
 
 ## 关于 Inkstone
 

@@ -16,9 +16,10 @@
 
 ## 资源分享
 
-* 暂无
+* [funny windows tools](others/funny_Windows_tools/Funny_Windows_tools.md)
 
 ## 求职经验
+
 * [余拓](jobs/yt.md)
 * [何丹丹](jobs/hdd.md)
 
@@ -37,4 +38,6 @@
 联系我们：
 [🐟](https://github.com/tyusr) /
 [⚪](https://github.com/Da-Yuan) /
-[🍉](https://github.com/Watermelon-Chen)
+[🍉](https://github.com/Watermelon-Chen)/
+[![dragon](others/dragon.png)](https://github.com/Jngwl)
+
