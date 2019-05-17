@@ -1,6 +1,6 @@
-### 一些有趣且实用的Windows工具分享
+## 一些有趣且实用的Windows工具分享
 
-> 君子性非异也，善假于物也。         --荀子《劝学》
+> 君子性非异也，善假于物也。         - - 荀子《劝学》
 
 首次提交：2019-05-17 by [![dragon](../dragon.png)](https://github.com/Jngwl)
 
@@ -37,7 +37,7 @@
 
 ![Listary](Listary.png)
 
-### 常用操作库 Quicker
+## 常用操作库 Quicker
 
 - [官网链接](https://getquicker.net/)
 - 特色点
