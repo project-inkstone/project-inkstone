@@ -55,7 +55,7 @@
   - 支持窗口尺寸、位置、透明度等各种自定义设置
 - 示例图片
 
-![Сhameleon Window Manager](Сhameleon Window Manager.png)
+![Сhameleon Window Manager](Сhameleon.png)
 
 #### 其他
 
