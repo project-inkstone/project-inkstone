@@ -1,6 +1,6 @@
 > 把有趣且实用的软件分享给你
 
-首次提交：2019-05-17 by[![dragon](../dragon.png)](https://github.com/Jngwl)
+首次提交：2019-05-17 by [![dragon](../dragon.png)](https://github.com/Jngwl)
 
 
 
