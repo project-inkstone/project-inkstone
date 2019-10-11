@@ -10,7 +10,7 @@
 [🐟](https://github.com/tyusr) /
 [⚪](https://github.com/Da-Yuan) /
 [🍉](https://github.com/Watermelon-Chen)/
-[![dragon](others/dragon.png)](https://github.com/Jngwl)
+[🐲](https://github.com/Jngwl)
 
 ## 关于 Inkstone
 

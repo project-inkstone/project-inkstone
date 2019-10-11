@@ -3,12 +3,10 @@
 ## 软件教程
 
 * [Endnote 入门](software-tutorial/endnote-intro/endnote-intro.md)
-
 * [MatyType 入门](software-tutorial/mathtype-intro/mathtype-intro.md)
-
 * [Ubuntu 网络配置](software-tutorial/ubuntu-network/ubuntu-network.md)
-
 * [Linux下virtualenv的使用与pycharm的基本配置](software-tutorial/ubuntu-network/virtualenv_and_pycharm.md)
+* [Ubuntu自动发送邮件通知ip地址变化](software-tutorial/ubuntu-network/get_ip-and-then-mail.md)
 
 ## 编程技巧
 
