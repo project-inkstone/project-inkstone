@@ -89,7 +89,7 @@ fi
 
 
 
-- /home/gwl/updateip.log`：记录ip地址检测情况，脚本每运行一次，增加一项。
+- `/home/gwl/updateip.log`：记录ip地址检测情况，脚本每运行一次，增加一项。
 
 ```bash
 gwl@amax:~$ cat updateip.log
