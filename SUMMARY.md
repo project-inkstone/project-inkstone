@@ -7,6 +7,12 @@
 * [Ubuntu 网络配置](software-tutorial/ubuntu-network/ubuntu-network.md)
 * [Linux下virtualenv的使用与pycharm的基本配置](software-tutorial/ubuntu-network/virtualenv_and_pycharm.md)
 * [Ubuntu自动发送邮件通知ip地址变化](software-tutorial/ubuntu-network/get_ip-and-then-mail.md)
+* [Ubuntu系统安装](software-tutorial/environment-config/ubuntu-installation.md)
+* [cuda&cudnn安装](software-tutorial/environment-config/cuda-cudnn-installation.md)
+* [pip改国内镜像源](software-tutorial/environment-config/pip-mirror-source.md)
+* [github改host](software-tutorial/environment-config/github-host.md)
+* [ssr科学上网](software-tutorial/environment-config/ssr.md)
+* [虚拟环境创建](software-tutorial/environment-config/virtual-env.md)
 
 ## 编程技巧
 
@@ -37,5 +43,5 @@
 [🐟](https://github.com/tyusr) /
 [⚪](https://github.com/Da-Yuan) /
 [🍉](https://github.com/Watermelon-Chen)/
-[🐲](https://github.com/Jngwl)
-
+[🐲](https://github.com/Jngwl) /
+[:zap:](https://www.zhihu.com/people/shaoeric)
