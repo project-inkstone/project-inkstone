@@ -45,6 +45,6 @@
 [⚪](https://github.com/Da-Yuan) /
 [🍉](https://github.com/Watermelon-Chen)/
 [🐲](https://github.com/Jngwl) /
-[:zap:](https://www.zhihu.com/people/shaoeric)/
-[🐧](https://github.com/Qiyuan-Z)/
+[⚡](https://www.zhihu.com/people/shaoeric)/
+[🐧](https://github.com/Qiyuan-Z)
 
