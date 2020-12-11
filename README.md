@@ -10,7 +10,9 @@
 [🐟](https://github.com/tyusr) /
 [⚪](https://github.com/Da-Yuan) /
 [🍉](https://github.com/Watermelon-Chen)/
-[🐲](https://github.com/Jngwl)
+[🐲](https://github.com/Jngwl)/
+[⚡](https://www.zhihu.com/people/shaoeric)/
+[🐧](https://github.com/Qiyuan-Z)
 
 ## 关于 Inkstone
 

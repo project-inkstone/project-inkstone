@@ -14,6 +14,7 @@
 * [ssr科学上网](software-tutorial/environment-config/ssr.md)
 * [虚拟环境创建](software-tutorial/environment-config/virtual-env.md)
 * [远程frp设置](software-tutorial/environment-config/frp-intro.md)
+* [Endnote样式使用教程](software-tutorial/endnote-intro/endnote-styles-guide.md)
 
 ## 编程技巧
 
