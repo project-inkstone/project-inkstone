@@ -44,3 +44,19 @@ EndNote未使用的文献类型 (Reference Type) 默认为3个 , 它们被命名
 
 ![](12.jpg)
 
+## 文献检索网站推荐
+
+感谢黄姐👩提供的建议，这里放出一个比谷歌学术还要好用的[文献检索网站](![img](file:///C:\Users\Qiyuan-Z\AppData\Roaming\Tencent\QQTempSys\%W@GJ$ACOF(TYDYECOKVDYB.png)https://dblp.uni-trier.de/)
+
+相比于谷歌学术，它可以精确地查找到预印本是否已出版：
+
+![](w1.png)
+
+支持多种题录格式导出：
+
+![](w2.png)
+
+有详细的会议地点：
+
+![](w3.png)
+
