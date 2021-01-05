@@ -4,6 +4,8 @@
 
 首次提交：2019-05-17 by [🐲](https://github.com/Jngwl)
 
+更新：2020-12-17 by [⚡](https://www.zhihu.com/people/shaoeric)
+
 
 
 ## 截图贴图工具Snipaste
@@ -62,6 +64,7 @@
 ## 其他
 
 - 搜索：[虫部落](https://search.chongbuluo.com/)
+- 电子书教材搜索：[鸠摩搜索](https://www.jiumodiary.com/)
 - 杀毒软件：[火绒安全](https://www.huorong.cn/)
 - 同步盘：[坚果云](https://www.jianguoyun.com/)
 - 下载器：[IDM](https://www.internetdownloadmanager.com/)、[FDM](https://www.freedownloadmanager.org/zh/)、[qBittorent](https://www.jngwl.top/2019/05/10/qBittorrent%E4%BD%BF%E7%94%A8/)等
@@ -73,6 +76,12 @@
 - 截图转换Latex：[Mathpix](https://mathpix.com/)
 - 第三方百度云：[速盘](https://www.speedpan.com/)、[Pandownload](http://pandownload.com/)
 - word代码高亮：[planetB](http://www.planetb.ca/syntax-highlight-word)
+- 可定义dpi的截屏工具: [链接](https://pan.baidu.com/s/1M8QKMOxPq4hyczfDhO8spw)  提取码：gkkr 
+- git图形化工具：[sourcetree](https://www.sourcetreeapp.com/)
 - 各种谷歌插件
-- ...
+
+  - sourcegraph: github代码浏览
+  - 简悦：网页文本渲染成杂志模式，去掉无效信息干扰
+  - 
+- ...s
 

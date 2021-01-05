@@ -24,6 +24,7 @@
 
 * [funny windows tools](others/funny_Windows_tools/Funny_Windows_tools.md)
 * [历届CCF顶会地点查询](software-tutorial/endnote-intro/conference-local.md)
+* [代码粘贴工具](https://paste.ubuntu.com/)
 
 ## 求职经验
 
