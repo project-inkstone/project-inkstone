@@ -6,7 +6,7 @@ EndNote主要针对英文文献，所以并没提供符合中华标准的文献�
 
 下载链接如下：
 [江大开题报告样式](https://drive.google.com/file/d/1RgwQu1P_yDF_zLhAr2b-q3qFkFm8pNLz/view?usp=sharing)
-[江大毕业论文样式](https://drive.google.com/file/d/1FTBLvEhop5vU9oDvrPGh1XZMnOAR6Xtw/view?usp=sharing)
+[江大毕业论文样式](https://drive.google.com/file/d/1EeGhckTxcrS2fdU2tLck_1vozWer0jU6/view?usp=sharing)
 
 ## 使用教程
 
